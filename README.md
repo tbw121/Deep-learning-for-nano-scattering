@@ -2,6 +2,7 @@
 
 ## Overview
 This project leverages **deep learning** techniques to design nano-scattering instruments, specifically focusing on a **metasurface dot-projector**. The dot-projector consists of silicon rods on a silica substrate, scattering light into targeted patterns. Our goal is to use deep learning models to solve the **inverse design problem** by predicting rod radii for desired scattering flux.
+![Rods](IMG_3320.jpeg "Rods")
 
 ## Key Features
 - **Finite Element Method (FEM)** simulations for electromagnetic scattering.
